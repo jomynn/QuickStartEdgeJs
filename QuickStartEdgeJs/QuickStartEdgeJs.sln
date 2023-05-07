@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickStartEdgeJs", "QuickStartEdgeJs\QuickStartEdgeJs.csproj", "{C5750326-88BE-47A6-B18F-170783059A08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nodejs", "Nodejs", "{F6A7110E-FD7D-4316-8BD8-2C385F1A2451}"
+	ProjectSection(SolutionItems) = preProject
+		main.js = main.js
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5750326-88BE-47A6-B18F-170783059A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5750326-88BE-47A6-B18F-170783059A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5750326-88BE-47A6-B18F-170783059A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5750326-88BE-47A6-B18F-170783059A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D46C499D-DCA3-41F7-8864-593D9A178A6B}
+	EndGlobalSection
+EndGlobal
